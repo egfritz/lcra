@@ -1,0 +1,5 @@
+link to look up people
+http://search.lcra.org/Pages/peopleresults.aspx?k=erich
+
+xl formula
+=HYPERLINK("http://search.lcra.org/Pages/peopleresults.aspx?k=erich","erich")
